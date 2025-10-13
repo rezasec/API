@@ -40,7 +40,7 @@ While technology and IT services dominate, industries like finance, healthcare, 
 
 ---
 
-## API Analogy: The Digital Restaurant 🍲
+## API Analogy: The Digital Restaurant 
 APIs are like a **waiter in a restaurant** — they deliver requests and bring back results.
 
 | Networking Term | Description | Restaurant Analogy |
