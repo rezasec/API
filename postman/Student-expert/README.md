@@ -9,7 +9,7 @@ If you’ve ever:
 - Used Google Maps inside another app  
 - Listened to Spotify on both desktop and mobile  
 
-…you’ve used APIs, probably without realizing it.
+you’ve used APIs, probably without realizing it.
 
 ---
 
