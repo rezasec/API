@@ -46,3 +46,17 @@ Common status code categories:
 | **5xx** | Server Error | 500 – Internal Server Error, 502 – Bad Gateway, 504 – Gateway Timeout |  
 
 A **2xx** response means the request was successful, while **4xx** and **5xx** indicate problems on the client or server side.
+
+-----
+
+### Request-Response Pattern  
+The request-response pattern shows how computers communicate over a network. An API acts as the interface that defines what kind of response to expect when we make certain calls to a server.  
+
+In this example, I made an HTTP **GET** request to `https://library-api.postmanlabs.com/books` and got a response from the server.  
+
+Here’s how it works:  
+- The **client** is the one making the request. It could be a browser, an app, or a tool like Postman. In this case, Postman is the client.  
+- The **request** is sent over a network to a **server**. Here, it went through the public internet to `https://library-api.postmanlabs.com`.  
+- The **server** interprets the request (`GET /books`) and sends back the proper response—like a list of books in this case.  
+
+That’s the basic idea of how the request-response cycle works. Simple but powerful.
