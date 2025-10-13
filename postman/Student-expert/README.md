@@ -1,5 +1,3 @@
-# What Are APIs
-
 ## Understanding APIs
 An **API (Application Programming Interface)** is a way for one piece of software to talk to another. It acts like a contract between systems, defining how they share data or perform actions.  
 
